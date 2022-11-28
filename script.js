@@ -81,6 +81,16 @@ productList.push({
     price: 1200,
     imagen: "https://images.pexels.com/photos/1149601/pexels-photo-1149601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 })
+productList.push({
+    name: "Laptop",
+    price: 3200,
+    imagen: "https://images.pexels.com/photos/1149601/pexels-photo-1149601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+})
+productList.push({
+    name: "TV",
+    price: 1200,
+    imagen: "https://images.pexels.com/photos/1149601/pexels-photo-1149601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+})
 
 
 

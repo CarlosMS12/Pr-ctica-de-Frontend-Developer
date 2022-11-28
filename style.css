@@ -401,7 +401,8 @@ aside {
      }
      #shoppingCartContainer{
       width: 100%;
-      padding: 0 24px;
+      height: 100%;
+      padding: 0 24px 24px;
      }
   }
 @media (min-width: 766px) {
